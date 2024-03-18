@@ -1,4 +1,4 @@
-# Blender to Unigine.Mesh File Exporter
+# Blender to Unigine .Mesh File Exporter
 
 This Blender add - on allows you to
 export Blender meshes to the Unigine.mesh file format, making it easier to integrate Blender models into Unigine projects.
